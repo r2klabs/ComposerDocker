@@ -1,0 +1,16 @@
+List of Wagner's Operas
+=======================
+
+<li>1833  Die Feen</li>
+<li>1836  Das Liebesverbot</li>
+<li>1837  Rienzi</li>
+<li>1837  Der fliegende Holl&auml;nder</li>
+<li>1845  Tannh&auml;user</li>
+<li>1850  Lohengrin</li>
+<li>1865  Tristan und Isolde</li>
+<li>1868  Die Meistersinger</li>
+<li>1869  Das Rheingold</li>
+<li>1870  Die Walk&auml;re</li>
+<li>1876  Siegfried</li>
+<li>1876  G&ouml;tterd&auml;mmerung</li>
+<li>1882  Parsifal</li>

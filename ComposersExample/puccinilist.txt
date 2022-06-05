@@ -1,0 +1,14 @@
+List of Puccini's Operas
+=======================
+
+<li>1884  Le Villi</li>
+<li>1889  Edgar</li>
+<li>1893  Manon Lescaut</li>
+<li>1896  La Boh�me</li>
+<li>1900  Tosca</li>
+<li>1904  Madama Butterfly</li>
+<li>1910  La Fanciulla del West</li>
+<li>1917  La Rondine</li>
+<li>1918  Il Trittico</li>
+<li>1918  Gianni Schicchi</li>
+<li>1926  Turandot</li>
